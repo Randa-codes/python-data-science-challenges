@@ -6,4 +6,4 @@ name = 'Randa'
 age = 21
 height = 1.65
 
-print('My name is: ' + name, 'I am: ' + str(age), 'My height is:', str(height))
+print('my name is : '+name,'I am '+ str(Age)+ ' years old and ',"I'm",str(height) ,'m tall' )
