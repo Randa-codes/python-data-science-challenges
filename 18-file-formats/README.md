@@ -19,10 +19,13 @@ We created a Python dictionary, saved it to a `.json` file, and read it back usi
   "name": "Lisa",
   "Age": 21
 }
+
+
+
 ##💡 Challenge 2: CSV – Product Inventory Analysis with Pandas
 We created a product inventory using a pandas DataFrame, saved it to a .csv file, and calculated the total value for each product by multiplying the price and quantity.
 
-##🔧 Steps:
+###🔧 Steps:
 Define a DataFrame with product names, prices, and quantities
 
 Add a new column: Total Value = Prices × Quantities
